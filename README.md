@@ -1,1 +1,1 @@
-commiting i=using linux terminal
+commiting using linux terminal
